@@ -34,10 +34,10 @@ public class Main {
         System.out.println("Задача 3");
         int speed = 90;
         if (speed > 60) {
-            System.out.println("Если скорость " + speed + " , то придется заплатить штраф!");
+            System.out.println("Если скорость " + speed + " ,то придется заплатить штраф!");
         }
         else {
-            System.out.println("Если скорость " + speed + " , то можно ездить спокойно!");
+            System.out.println("Если скорость " + speed + " ,то можно ездить спокойно!");
         }
     }
     public static void task4() {
