@@ -20,7 +20,7 @@ public class Main {
     }
 
     public static void task2() {
-        System.out.println("Задача 2");
+        System.out.println("Задача 2 ");
         int airTemperature = 3;
         if (airTemperature < 5) {
             System.out.println("«На улице " + airTemperature + " градусов, нужно надеть шапку!");
@@ -40,6 +40,7 @@ public class Main {
             System.out.println("Если скорость " + speed + " ,то можно ездить спокойно!");
         }
     }
+
     public static void task4() {
         System.out.println("Задача 4");
         int age = 8;
@@ -62,6 +63,7 @@ public class Main {
             System.out.println("Если возраст человека равен " + age + " ,то он может отдохнуть!");
         }
     }
+
     public static void task5() {
         System.out.println("Задача 5");
         int age = 60;
@@ -79,6 +81,7 @@ public class Main {
              System.out.println("Если возраст ребенка равен " + age + ", кататься можно одному!");
          }
     }
+
     public static void task6() {
         System.out.println("Задача 6");
         int place = 102;
@@ -97,6 +100,7 @@ public class Main {
             System.out.println("Мест нет");
         }
     }
+
     public static void task7(){
         System.out.println("Задача 7");
         int one = 98;
